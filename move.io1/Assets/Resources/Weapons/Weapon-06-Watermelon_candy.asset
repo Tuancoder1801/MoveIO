@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2c64133e87c82548a0df397f9e378b1, type: 3}
+  m_Name: Weapon-06-Watermelon_candy
+  m_EditorClassIdentifier: 
+  Name: WATERMELON CANDY
+  icon: {fileID: 21300000, guid: 82541a9d027d1ef459d4baf465a125ce, type: 3}
+  price: 1200
+  weaponId: 6
+  damage: 1

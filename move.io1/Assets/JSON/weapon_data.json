@@ -1,0 +1,62 @@
+[
+  {
+    "weaponId": 1,
+    "weaponName": "ARROW",
+    "damage": 1,
+    "range": 5
+  },
+  {
+    "weaponId": 2,
+    "weaponName": "HAMMER",
+    "damage": 1,
+    "range": 5
+  },
+  {
+    "weaponId": 3,
+    "weaponName": "BOOMERANG",
+    "damage": 1,
+    "range": 5
+  },
+  {
+    "weaponId": 4,
+    "weaponName": "RED EXE",
+    "damage": 1,
+    "range": 5
+  },
+  {
+    "weaponId": 5,
+    "weaponName": "YELLOW EXE",
+    "damage": 1,
+    "range": 5
+  },
+  {
+    "weaponId": 6,
+    "weaponName": "WATERMELON CANDY",
+    "damage": 1,
+    "range": 5
+  },
+  {
+    "weaponId": 7,
+    "weaponName": "CHRISTMAS CANDY",
+    "damage": 1,
+    "range": 5
+  },
+  {
+    "weaponId": 8,
+    "weaponName": "SCREAM",
+    "damage": 1,
+    "range": 5
+  },
+  {
+    "weaponId": 9,
+    "weaponName": "LEMON CANDY",
+    "damage": 1,
+    "range": 5
+  },
+  {
+    "weaponId": 10,
+    "weaponName": "KNIFE",
+    "damage": 1,
+    "range": 5
+  }
+]
